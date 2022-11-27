@@ -1,6 +1,6 @@
 # Zigzag-cipher
 
-<h3>My solution to Zigzag/Railfence cipher </h3>
+<h3>My solution to the Zigzag/Railfence cipher </h3>
 <hr>
 <h3>Description</h3>
 the Railfence cipher is a classical type of transposition cipher.<br>
